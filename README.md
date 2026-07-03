@@ -4,7 +4,7 @@ End-to-end data analytics project: data generation → SQL analysis → Pandas E
 interactive Streamlit dashboard. Built as a portfolio project for Data Analyst
 internship applications.
 
-**[Live Dashboard →](#) | [Dataset](data/ecommerce_sales_india.csv) | [SQL Queries](sql/analysis_queries.sql)**
+**[Live Dashboard →](https://india-ecommerce-sales-analytics.streamlit.app/)** | [Dataset](data/ecommerce_sales_india.csv) | [SQL Queries](sql/analysis_queries.sql)**
 
 ---
 
